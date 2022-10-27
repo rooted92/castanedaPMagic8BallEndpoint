@@ -1,3 +1,8 @@
+//Pedro Castaneda
+//10-27-2022
+//Magic 8 Ball - Endpoint
+//Create an endpoint that will give a random answer to a users question
+//Peer Review by; Andrea Burr ; i like the game i think it runs well overall very short and clean code !
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
